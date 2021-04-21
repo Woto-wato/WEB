@@ -1,0 +1,21 @@
+body{
+    background-color:wheat;
+}
+h1{
+    color: red;
+}
+p{
+    color: black;
+}
+l{
+    color: purple;
+}
+.d1{
+   margin: 40px;
+   padding: 30px;
+   border:   30px;
+   width:   500px;
+   border-style:solid;
+
+
+}
